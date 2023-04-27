@@ -1,6 +1,3 @@
-[submodule "smoothed_deconvolver"]
-	path = smoothed_deconvolver
-	url = https://github.com/michaelphagen/smoothed_deconvolver.git
 [submodule "Matlab_Scripts"]
 	path = Matlab_Scripts
 	url = https://github.com/michaelphagen/Thesis_Scripts.git
